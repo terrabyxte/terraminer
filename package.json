@@ -1,0 +1,13 @@
+{
+  "name": "terraminer",
+  "version": "1.0.0",
+  "description": "terraminer is better than vukkyminer",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+    
+  },
+  "keywords": [],
+  "author": "terrabyxte",
+  "license": "ISC"
+}
